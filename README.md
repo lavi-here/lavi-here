@@ -5,38 +5,26 @@
 I am a CSE student passionate about building modern and responsive web applications.  
 Currently learning and improving my skills in web development step by step.
 
----
-
 ## 🚀 Skills
 - HTML  
 - CSS  
 - JavaScript  
 - Git & GitHub  
 
----
-
 ## 📂 Projects
 🔹 Amazon Clone – E-commerce UI  
 🔹 Spotify Clone – Music Player UI  
 🔹 Travel Website – Responsive Design  
 
----
-
 ## 📈 Currently Learning
 - Advanced JavaScript  
 - React (Next Step 🚀)  
 
----
-
 ## 🎯 Goal
 To become a skilled Software Engineer and build impactful real-world projects.
 
----
-
 ## 📫 Connect with Me
-- LinkedIn: (Add your link here)
-
----
+- LinkedIn:(https://www.linkedin.com/in/lavi-pal-4a5020360/)
 
 ⭐ Always learning | Always building
 <!--
