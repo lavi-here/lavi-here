@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lavi Pal
 
-💻 Aspiring Software Engineer | Frontend Web Developer  
+💻 Btech Student | Software Engineer | Frontend Web Developer  
 
 I am a CSE student passionate about building modern and responsive web applications.  
 Currently learning and improving my skills in web development step by step.
